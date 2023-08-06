@@ -1,6 +1,6 @@
 import random
 
-print("Hello World")
+print("Hello Fat Man")
 date = 24
 month = "June"
 
@@ -8,16 +8,16 @@ time = 4
 print("The current month and day is", month, date-1)
 computer_is_on = True
 if computer_is_on:
-  print("Yes, the computer is on")
+    print("Yes, the computer is on")
 else:
-  print("No, the computer is not on")
+    print("No, the computer is not on")
 weight = 188.3
 height = 60
 if weight <= 180:
-  print("You're on track")
+    print("You're on track")
 else:
-  print(weight, "pounds")
-  print("Lose some weight fat-man")
+    print(weight, "pounds")
+    print("Lose some weight fat-man")
 
 lucky_number = random.randint(1, 75)
 
